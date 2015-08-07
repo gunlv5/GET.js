@@ -1,7 +1,6 @@
 /* Simulate $_GET php
  * Version: 1.0
  * Author: gunlv5
- * Url: facebook.com/gun.fnu
  * License: MIT
  */
 
